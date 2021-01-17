@@ -1,1 +1,1 @@
-# IEEE-UH-Solar-Panel-Battery-Charging-Circuit-Level-1
+# Solar Panel Battery Charging Circuit Level 1
